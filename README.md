@@ -1,4 +1,4 @@
-# Hi ![](hi.gif) im Adel Benyahia
+# Hi ![](hi.gif) my name is Adel Benyahia
 
 ## Contact me 📨
 
