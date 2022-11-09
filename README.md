@@ -1,7 +1,6 @@
-# Hi ![](hi.gif)My name is Adel Benyahia
+# Hi ![](hi.gif) im Adel Benyahia
 
-
-## Contact me ✉
+## Contact me 📨
 
 [![twitter][1.1]][1]
 [![facebook][2.1]][2]
