@@ -1,6 +1,6 @@
 # Adelpro
 
-Thanks you For visiting my profile
+Thank you For visiting my profile
 
 ## Contacts me ✉
 
