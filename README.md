@@ -2,7 +2,7 @@
 
 Thank you For visiting my profile
 
-## Contacts me ✉
+## Contact me ✉
 
 [![twitter][1.1]][1]
 [![facebook][2.1]][2]
