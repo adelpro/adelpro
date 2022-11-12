@@ -20,5 +20,5 @@
 [1]: https://www.twitter.com/adelpro
 [2]: https://www.facebook.com/adel.benyahia
 [3]: https://github.com/adelpro
-[4]: adelpro.medium.com
+[4]: https://adelpro.medium.com
 [4.1]: https://i.imgur.com/tijdQEw.png "medium icon with padding"
