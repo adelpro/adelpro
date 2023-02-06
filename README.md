@@ -1,13 +1,17 @@
-# Hi ![](hi.gif) my name is Adel Benyahia
+### Hi ![](hi.gif) I'm Adel Benyahia
 
-## Contact me 📨
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelpro" />
+
+### Contact me 📨
 
 [![twitter][1.1]][1]
 [![facebook][2.1]][2]
 [![github][3.1]][3]
 [![medium][4.1]][4]
 
-## Support me ❤️
+### Support me ❤️
 
 [![Ko-fi](https://badgen.net/badge/icon/Kofi?icon=kofi&label)](https://ko-fi.com/adelbenyahia)
 [![Buymeacoffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&label)](https://www.buymeacoffee.com/Adel.benyahia/)
