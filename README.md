@@ -2,8 +2,6 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelpro" />
-
 ### Contact me 📨
 
 [![twitter][1.1]][1]
