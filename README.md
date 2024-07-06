@@ -10,7 +10,6 @@
 
 [![twitter][1.1]][1]
 [![github][2.1]][2]
-[![medium][3.1]][3]
 
 ### ✅ Support me ❤️
 
@@ -20,7 +19,6 @@
 
 [1]: https://www.twitter.com/adelpro
 [2]: https://github.com/adelpro
-[3]: https://adelpro.medium.com
+
 [1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
 [2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
-[3.1]: https://i.imgur.com/tijdQEw.png "medium icon with padding"
