@@ -52,7 +52,8 @@ Here are some of the projects I've worked on:
 ### 📫 Contact Me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adelpro)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adelpro)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adelpro)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@adelpro)
 
 ---
 
