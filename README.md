@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 - **[QuranIPFS](https://quranipfs.com/)**  
   A Quran application using IPFS for decentralized storage and distribution. [Source Code](https://github.com/adelpro/Quranipfs)
 
-- **[MERN Auth Roles]([https://check-hadith.web.app/](https://mern-auth-roles.onrender.com/)**  
+- **[MERN Auth Roles](https://mern-auth-roles.onrender.com/)**  
   A web application for managing user authentication and roles, built with the MERN stack (MongoDB, Express, React, Node.js). [Source Code]([https://github.com/adelpro/MERN-auth-roles-boilerplate])
 
 ---
