@@ -69,7 +69,6 @@ Here are some of the projects I've worked on:
 If you find my work valuable, consider supporting me:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adelbenyahia)
-[![Ko-fi](https://img.shields.io/badge/-Ko--fi-29ABE0?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/adelbenyahia)
 [![PayPal](https://badgen.net/badge/icon/PayPal?icon=https://simpleicons.now.sh/paypal/fff&label)](https://www.paypal.com/paypalme/adelbenyahia)
 
 ---
