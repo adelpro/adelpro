@@ -21,7 +21,7 @@ Here are some of the projects I've worked on:
 - **[Open Mushaf Native](https://open-mushaf-native.vercel.app/)**  
   A mobile-native version of the Open Mushaf web app built with **React Native** and **Expo**, providing a seamless offline Quran reading experience. [Source Code](https://github.com/adelpro/open-mushaf-native)
 
-- [Open Quran](https://openquran.us.kg)**
+- **[Open Quran](https://openquran.us.kg)**
   Open Mushaf is an open-source Quran application designed to provide an optimal reading experience across various platforms. Built with modern web technologies, it ensures performance, offline access, and responsive design. The use of WebTorrent also allows for decentralized storage of Quran content, eliminating the need for a central server and ensuring that the content is highly available. [Source Code](https://github.com/adelpro/open-quran)
 
 - **[Nextpalestine](https://nextpalestine.vercel.app/)**  
