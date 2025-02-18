@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 - **[Open Mushaf](https://open-mushaf.vercel.app/)**  
   An open-source Quran Mushaf implementation built with TypeScript, Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design. [Source Code](https://github.com/adelpro/open-mushaf)
 
-- **Open Mushaf Native**  
+- **[Open Mushaf Native](https://play.google.com/store/apps/details?id=com.adelpro.openmushafnative)**  
   A mobile-native version of the Open Mushaf web app built with **React Native** and **Expo**, providing a seamless offline Quran reading experience. [Source Code](https://github.com/adelpro/open-mushaf-native)
 
 - **[Open Quran](https://openquran.us.kg)**
