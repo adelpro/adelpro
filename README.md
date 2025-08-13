@@ -9,6 +9,10 @@ I'm **Adel Benyahia**, a passionate **Full-Stack Web Developer** specializing in
 - **Technologies**: React, React Native, TypeScript, Tailwind CSS, Next.js, Node.js, NestJS, MongoDB
 - **Hobbies**: Building web and mobile applications, contributing to open-source, and learning new technologies.
 
+![Profile Views](https://komarev.com/ghpvc/?username=adelpro&color=blue)
+![Followers](https://img.shields.io/github/followers/adelpro?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/adelpro?label=Stars&style=social)
+
 ---
 
 ### 🚀 Projects
@@ -57,6 +61,11 @@ Here are some of the projects I've worked on:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adelpro)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@adelpro)
 [![Peerlist](https://img.shields.io/badge/-Peerlist-000000?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/adelpro)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adelpro&theme=tokyo-night)
+
 
 ---
 
