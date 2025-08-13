@@ -17,20 +17,20 @@ I'm **Adel Benyahia**, a passionate **Full-Stack Web Developer** specializing in
 
 Here are some of the projects I've worked on:
 
-- **[Open Mushaf](https://open-mushaf.vercel.app/)**  
-  An open-source Quran Mushaf implementation built with TypeScript, Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design. [Source Code](https://github.com/adelpro/open-mushaf)
-
 - **[Open Mushaf Native](https://play.google.com/store/apps/details?id=com.adelpro.openmushafnative)**  
   A mobile-native version of the Open Mushaf web app built with **React Native** and **Expo**, providing a seamless offline Quran reading experience. [Source Code](https://github.com/adelpro/open-mushaf-native)
 
-- **[Open Quran](https://openquran.us.kg)**
+- **[Open Mushaf](https://open-mushaf.vercel.app/)**  
+  An open-source Quran Mushaf implementation built with TypeScript, Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design. [Source Code](https://github.com/adelpro/open-mushaf)
+
+- **[Open Tarteel](https://tarteel.quran.us.kg)**
+  Open Tarteel is an open-source Quran application designed to provide an optimal Quran audio streaming experience across various platforms. [Source Code](https://github.com/adelpro/open-tarteel)
+
+- **[Open Tilawa](https://tilawa.quran.us.kg)**
   Open Mushaf is an open-source Quran application designed to provide an optimal reading experience across various platforms. Built with modern web technologies, it ensures performance, offline access, and responsive design. The use of WebTorrent also allows for decentralized storage of Quran content, eliminating the need for a central server and ensuring that the content is highly available. [Source Code](https://github.com/adelpro/open-quran)
 
 - **[Nextpalestine](https://nextpalestine.vercel.app/)**  
   A platform to effortlessly create, manage, and publish captivating blog content, allowing you to focus on writing and engaging your audience. [Source Code](https://github.com/adelpro/nextpalestine)
-
-- **[QuranIPFS](https://quranipfs.com/)**  
-  A Quran application using IPFS for decentralized storage and distribution. [Source Code](https://github.com/adelpro/Quranipfs)
 
 - **[MERN Auth Roles](https://mern-auth-roles.onrender.com/)**  
   A web application for managing user authentication and roles, built with the MERN stack (MongoDB, Express, React, Node.js). [Source Code]([https://github.com/adelpro/MERN-auth-roles-boilerplate])
@@ -50,6 +50,7 @@ Here are some of the projects I've worked on:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
