@@ -1,82 +1,64 @@
-# Hi ![](hi.gif) I'm [Adel Benyahia](https://adelpro.us.kg)
----
+# Hi, I'm Adel Benyahia
 
-### ✅ About Me
+I build open-source Quran software and the developer tools around it. TypeScript and React Native on the client, Next.js and SQLite on the server, MCP servers where an AI client needs real data.
 
-![Profile Views](https://komarev.com/ghpvc/?username=adelpro&color=blue)
+Portfolio: [adelpro.us.kg](https://adelpro.us.kg)
+
 ![Followers](https://img.shields.io/github/followers/adelpro?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/adelpro?label=Stars&style=social)
 
-I'm **Adel Benyahia**, a passionate **Full-Stack Web Developer** specializing in building modern and scalable applications. I focus on creating seamless user experiences with the latest technologies, including **React**, **React Native**, **Next.js**, **Node.js**, **NestJS**, **MongoDB**, and **TypeScript**.
+## What I'm working on
 
-- **Specialties**: Frontend Development, Mobile Development, Backend Development, Open Source Contributions
-- **Technologies**: React, React Native, TypeScript, Tailwind CSS, Next.js, Node.js, NestJS, MongoDB
-- **Hobbies**: Building web and mobile applications, contributing to open-source, and learning new technologies.
+**open-mushaf-native**: mushaf reader for Android, iOS and web built with Expo and React Native. Page-by-page rendering, offline reading, word-level interaction. Over 10,000 installs on Google Play at 4.6 stars.
 
-### 🚀 Projects
+App: [com.adelpro.openmushafnative](https://play.google.com/store/apps/details?id=com.adelpro.openmushafnative)
 
-Here are some of the projects I've worked on:
+**open-tarteel**: Quran audio streaming across web, mobile and TV, with reciter selection and background playback.
 
-- **[Open Mushaf Native](https://play.google.com/store/apps/details?id=com.adelpro.openmushafnative)**  
-  A mobile-native version of the Open Mushaf web app built with **React Native** and **Expo**, providing a seamless offline Quran reading experience. [Source Code](https://github.com/adelpro/open-mushaf-native)
+Live: [tarteel.quran.us.kg](https://tarteel.quran.us.kg)
 
-- **[Open Mushaf](https://open-mushaf.vercel.app/)**  
-  An open-source Quran Mushaf implementation built with TypeScript, Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design. [Source Code](https://github.com/adelpro/open-mushaf)
+**open-tarteel-tv**: the Android TV and iOS build of Tarteel, over 5,000 installs.
 
-- **[Open Tarteel](https://tarteel.quran.us.kg)**
-  Open Tarteel is an open-source Quran application designed to provide an optimal Quran audio streaming experience across various platforms. [Source Code](https://github.com/adelpro/open-tarteel)
+**quran-search-engine**: stateless Quran search with Arabic normalisation, root and form matching, and verse highlighting. Published to npm, and the repo more people fork than star: 45 forks against 38 stars.
 
-- **[Open Tilawa](https://tilawa.quran.us.kg)**
-  Open Mushaf is an open-source Quran application designed to provide an optimal reading experience across various platforms. Built with modern web technologies, it ensures performance, offline access, and responsive design. The use of WebTorrent also allows for decentralized storage of Quran content, eliminating the need for a central server and ensuring that the content is highly available. [Source Code](https://github.com/adelpro/open-quran)
+Repo: [adelpro/quran-search-engine](https://github.com/adelpro/quran-search-engine)
 
-- **[Nextpalestine](https://nextpalestine.vercel.app/)**  
-  A platform to effortlessly create, manage, and publish captivating blog content, allowing you to focus on writing and engaging your audience. [Source Code](https://github.com/adelpro/nextpalestine)
+**quran-search-engine-mcp**: an MCP server that gives AI clients Quran search, Arabic normalisation and highlight ranges instead of guessed verses.
 
-- **[MERN Auth Roles](https://mern-auth-roles.onrender.com/)**  
-  A web application for managing user authentication and roles, built with the MERN stack (MongoDB, Express, React, Node.js). [Source Code]([https://github.com/adelpro/MERN-auth-roles-boilerplate])
+npm: [quran-search-engine-mcp](https://www.npmjs.com/package/quran-search-engine-mcp)
 
----
+**open-quran-view**: Quran rendering components for React and React Native, driven by the Quran Foundation API.
 
-### 🛠️ Tech Stack
+Docs: [adelpro.us.kg/open-quran-view](https://adelpro.us.kg/open-quran-view/)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+**open-quran** (Tilawa): reading app with WebTorrent delivery, so audio does not depend on one server staying up.
 
----
+Live: [tilawa.quran.us.kg](https://tilawa.quran.us.kg)
 
-### 📫 Contact Me
+## Tools
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adelpro)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adelpro)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@adelpro)
-[![Peerlist](https://img.shields.io/badge/-Peerlist-000000?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/adelpro)
+**lubb-writer**: AI writing assistant for the browser, 13 enhancement modes, multiple providers, self-hostable.
 
----
+[lubb-writer.adelpro.us.kg](https://lubb-writer.adelpro.us.kg)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adelpro&theme=tokyo-night)
+**designmd-forge**: design system reference server and MCP tooling for DESIGN.md documents.
 
+[designmd-forge.adelpro.us.kg](https://designmd-forge.adelpro.us.kg)
 
----
+**@adelpro/writing-flow**: voice-driven writing pipeline, on npm.
 
-### 📈 GitHub Stats
+## Stack
 
-![Adel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adelpro&show_icons=true&theme=transparent)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adelpro&layout=compact&theme=transparent)
+TypeScript, React, React Native, Next.js, NestJS, Tailwind CSS, SQLite and Postgres, Expo, Docker. Most of the work is Arabic-first UI: RTL layout, Quranic text rendering, Arabic search normalisation.
 
----
+## Writing
 
-### ❤️ Support
+I write up the builds at [letscode.adelpro.us.kg](https://letscode.adelpro.us.kg), mostly the parts that took longer than expected.
 
-If you find my work valuable, consider supporting me:
+## Elsewhere
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adelbenyahia)
-[![PayPal](https://badgen.net/badge/icon/PayPal?icon=https://simpleicons.now.sh/paypal/fff&label)](https://www.paypal.com/paypalme/adelbenyahia)
-
----
+- GitHub: [github.com/adelpro](https://github.com/adelpro)
+- X: [x.com/adelpro](https://www.x.com/adelpro)
+- Hashnode: [hashnode.com/@adelpro](https://hashnode.com/@adelpro)
+- Peerlist: [peerlist.io/adelpro](https://peerlist.io/adelpro)
+- Gumroad: [gumroad.adelpro.us.kg](https://gumroad.adelpro.us.kg)
